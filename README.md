@@ -16,6 +16,10 @@
 - Адаптивна верстка (responsive)
 - Mobile-first підхід
 
+## 🚀 Live Demo
+
+[Переглянути сайт](https://ol-voronko.github.io/shop-bakery-landing/)
+
 ## 📦 Як запустити локально
 
 git clone https://github.com/ol-voronko/shop-bakery-landing.git
